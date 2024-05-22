@@ -4,7 +4,7 @@ An introduction to the backpropagation algorithm in Julia.
 
 In `Lecture-Intro-Backpropagation-p1.ipynb` we start with defining a Value and building a Computational Graph. We then go backward on this grad and compute the gradients at each step. 
 
-In `Lecture-Intro-Backpropagation-p2.ipynb` we take a look at how we can go backward  define a simple neural network and train it on a simple dataset.
+In `Lecture-Intro-Backpropagation-p2.ipynb` we take a look at how we can go backward automatically, define a simple neuron and train it on a simple goal value.
 
 
 ## Credits
